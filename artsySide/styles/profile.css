@@ -1,0 +1,70 @@
+.container {
+	height: 100%;
+	margin: 0;
+	text-align: center;
+ 	width: 100%;
+ 	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 20px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 26.4px;
+}
+
+.navlink img {
+	width: 60px;
+	height: 60px;
+	margin-top: 50px;
+
+}
+
+.container ul {
+	border: 2px black solid;
+	border: double;
+	list-style-position: inside;
+}
+
+.profileInfo img {
+	width: 35%;
+	height: 35%;
+	border-radius: 100px;
+	border: solid;
+}
+
+.profileInfo p{
+	width:600px;
+	margin: 0 auto;
+	font-size: 16px;
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+body {
+  background: linear-gradient(102deg, rgb(229, 243, 255), rgb(6, 76, 146));
+  background: -webkit-linear-gradient(102deg, rgb(229, 243, 255), rgb(6, 76, 146));
+}
+
+.course1 {
+	border: double;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
